@@ -1,4 +1,5 @@
 import { CartState } from "../context/Context"
+import Filters from "./Filters";
 import SingleProduct from "./SingleProduct";
 import './Styles.css'
 
@@ -9,7 +10,7 @@ const Home = () => {
   return (
     <div className="home">
 
-        <filter />
+        <Filters />
 
         <div className="productContainer">
             {
