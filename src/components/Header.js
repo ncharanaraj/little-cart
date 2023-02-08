@@ -15,10 +15,10 @@ const Header = () => {
               placeholder="Search" className='m-auto' style={{ width: 500 }}/>
             </Navbar.Text>
             <Nav>
-                <Dropdown align='end'>
+                <Dropdown>
                     <Dropdown.Toggle variant="success">
                         <FaShoppingCart color="white" fontSize="25px" />
-                        <Badge>{10}</Badge>
+                        <Badge className="mx-1">{10}</Badge>
                     </Dropdown.Toggle>
 
                     <Dropdown.Menu style={{ minWidth: 370 }} >
