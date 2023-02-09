@@ -1,3 +1,26 @@
+
+
+.cartItem {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 20px 20px 20px;
+}
+
+.cartItemImage {
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+    object-fit: cover;
+}
+
+.cartItemDetails {
+    display: flex;
+    flex: 1;
+    padding: 0 20px;
+    flex-direction: column;
+}
+
 .home {
     display: flex;
 }
@@ -30,4 +53,11 @@
 
 }
 
+.products {
+    width: 30%;
+    margin: 10px;
+}
 
+.summary {
+    width: 30%;
+}
