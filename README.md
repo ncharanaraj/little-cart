@@ -1,4 +1,4 @@
-# Little Cart
+# Little shopping Cart
 
 initialize the react app.
 npx create-react-app little-cart
