@@ -1,9 +1,6 @@
+# Little Shopping Cart [[↗️](https://littleshoppingcart.netlify.app/)]
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/d02961b018153506364077343b0edcde0a39d27e/svgs/solid/cart-shopping.svg
-" width="50" height="50">
-
-
-# Little Shopping Cart
+Little shopping cart is an e-commerce site built in React JS with Context API and useReducer hooks deployed on netlify.
 
 ## Features
 
@@ -38,3 +35,8 @@ $ npm install
 $ npm start
 ```
 
+## Let's connect!
+
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
