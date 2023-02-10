@@ -18,7 +18,7 @@ const Header = () => {
     : 80 }}>
         <Container>
             <Navbar.Brand>
-                <Link to='/'>Little Shopping Cart</Link>
+                <Link to='/'><b>Little-Shopping-Cart</b></Link>
             </Navbar.Brand>
             <Navbar.Text className='search'>
                 <FormControl
@@ -35,13 +35,13 @@ const Header = () => {
                 />
             </Navbar.Text>
             <Nav>
-                <Dropdown align="end">
+                <Dropdown alignRight>
                     <Dropdown.Toggle variant="success">
                         <FaShoppingCart color="white" fontSize="25px" />
                         <Badge className="mx-1">{cart.length}</Badge>
                     </Dropdown.Toggle>
 
-                    <Dropdown.Menu style={{ minWidth: 370 }} >
+                    <Dropdown.Menu style={{ minWidth: 250 }} >
 
                         {cart.length > 0 ? (
                             <>
