@@ -26,6 +26,9 @@ Little shopping cart is an e-commerce site built in React JS with Context API an
 - React Icons
 - Faker - which is a popular library that generates fake data.
 
+### 🌐 Deployed Status
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ee59d804-df0c-47de-be54-b1575bfe3bf7/deploy-status)](https://app.netlify.com/sites/littleshoppingcart/deploys)
+
 ## 🧑‍💻 How to install and run locally ?
 
 ```
